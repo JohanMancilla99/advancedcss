@@ -1,3 +1,7 @@
-body {
-  background-color: lightcoral;
+.hello {
+  display: flex;
+  justify-content: space-around;
+
+  background-color: green;
+  height: 100vh;
 }
